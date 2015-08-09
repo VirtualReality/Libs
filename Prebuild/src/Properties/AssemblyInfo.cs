@@ -68,7 +68,8 @@ using System.Resources;
                              "Rob Loach, " +
                              "David Hudson," +
                              "John Hurliman" +
-                             "WhiteCore Development")]
+                             "WhiteCore Development" +
+                             "Second Galaxy Development Team")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 [assembly: NeutralResourcesLanguageAttribute("en-US")]
