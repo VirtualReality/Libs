@@ -1,4 +1,4 @@
-# WhiteCore Libraries
+# Virtual Universe Libraries
 
 3rd party libraries used for Virtual Universe
 Built as addon-modules
