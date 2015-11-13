@@ -21,7 +21,7 @@ Global
     GlobalSection(NestedProjects) = preSolution
     EndGlobalSection
     GlobalSection(MonoDevelopProperties) = preSolution
-        description = WhiteCore modifications and build
+        description = Virtual Universe modifications and build
         version = 2.0.7
 	EndGlobalSection
 EndGlobal

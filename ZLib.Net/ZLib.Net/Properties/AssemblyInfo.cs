@@ -5,10 +5,10 @@ using System.Runtime.CompilerServices;
 // Change them to the values specific to your project.
 
 [assembly: AssemblyTitle ("ZLib.Net")]
-[assembly: AssemblyDescription ("ZLib WhiteCore")]
+[assembly: AssemblyDescription ("ZLib Virtual-Universe")]
 [assembly: AssemblyConfiguration ("")]
-[assembly: AssemblyCompany ("Whitecoresim.org")]
-[assembly: AssemblyProduct ("ZLib.Net - WhiteCore")]
+[assembly: AssemblyCompany ("Virtual Universe Development Team")]
+[assembly: AssemblyProduct ("ZLib.Net - Virtual-Universe")]
 [assembly: AssemblyCopyright ("Rowan Deppeler")]
 [assembly: AssemblyTrademark ("")]
 [assembly: AssemblyCulture ("")]
@@ -24,4 +24,3 @@ using System.Runtime.CompilerServices;
 
 //[assembly: AssemblyDelaySign(false)]
 //[assembly: AssemblyKeyFile("")]
-

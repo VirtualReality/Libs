@@ -19,7 +19,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
-		description = WhiteCore build of AceCOmponents zlib.net
+		description = Virtual Universe build of AceComponents zlib.net
 		version = 1.0.4.1
 	EndGlobalSection
 EndGlobal
