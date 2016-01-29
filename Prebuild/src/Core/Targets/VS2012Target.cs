@@ -101,6 +101,8 @@ namespace Prebuild.Core.Targets
         {
             switch (frameworkVersion)
             {
+                case FrameworkVersion.v4_6_1:
+                case FrameworkVersion.v4_6:
                 case FrameworkVersion.v4_5_1:
                 case FrameworkVersion.v4_5:
                 case FrameworkVersion.v4_0:
