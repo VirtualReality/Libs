@@ -5,7 +5,7 @@
  * Licensed under the Creative Commons Attribution Share-Alike 2.5 Canada
  * license: http://creativecommons.org/licenses/by-sa/2.5/ca/
  * 
- * Revised and renamed for WhiteCore-Sim, https://whitecore-sim.org
+ * Revised and renamed for Virtual Universe, https://virtual-planets.org
  *  2014, 2015
  * Greythane:  greythane@gmail.com
  */

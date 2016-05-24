@@ -69,11 +69,11 @@ using System.Resources;
                              "David Hudson," +
                              "John Hurliman" +
                              "WhiteCore Development" +
-                             "Second Galaxy Development Team")]
+                             "Virtual Universe Development")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 [assembly: NeutralResourcesLanguageAttribute("en-US")]
-[assembly: AssemblyVersion("2.0.7.*")]
+[assembly: AssemblyVersion("2.0.8.*")]
 
 //
 // Version information for an assembly consists of the following four values:
